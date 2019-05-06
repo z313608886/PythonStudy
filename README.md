@@ -1,6 +1,2 @@
 # PythonStudy
-
-
-
-
-# grow up slowly
+# My Learning Experience 
